@@ -1,2 +1,2 @@
 # Users-List
-This is a web application project made using html, css, php and mysql database.
+This is a web application project made using html, css, php and mysql database. It performs php CRUD operations.
